@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Patrik demar openshift demo</h2>
+<h2>Patrik demar openshift demo på Softronic</h2>
 </body>
 </html>
